@@ -1,0 +1,1 @@
+Erro Padrao 10-fold : 3.546877024790768E-4 erro verdadeiro vai ficar entre : 0.27256191514073885 e 0.2739522909344569
